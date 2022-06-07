@@ -72,4 +72,4 @@ Here are some ideas to get you started:
   
 ![yuyeon329's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon329&show_icons=true&theme=buefy )
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&height=300)
