@@ -1,6 +1,6 @@
 <div align=center>  
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome!&height=300&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yuyeon's%20GitHub%20Profile&descAlignY=51&descAlign=62)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=YuYeon's&height=300&fontSize=100&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile&descAlignY=51&descAlign=62)  
 <br>
   
 <p align="center" display="inline-block">
