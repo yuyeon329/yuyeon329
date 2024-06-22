@@ -88,6 +88,7 @@
 
 Studying hard these days... 🔜
 <p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
